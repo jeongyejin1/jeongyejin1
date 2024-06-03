@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 안녕하세요 정예진입니다
-즐겁게 공부해봅시다
+\^_^/
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
