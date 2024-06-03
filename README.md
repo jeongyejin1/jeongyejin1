@@ -1,9 +1,7 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**jeongyejin1/jeongyejin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## 안녕하세요 정예진입니다
+즐겁게 공부해봅시다
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
